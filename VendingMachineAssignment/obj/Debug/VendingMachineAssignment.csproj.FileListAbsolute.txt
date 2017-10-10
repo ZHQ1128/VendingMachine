@@ -1,0 +1,7 @@
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\obj\Debug\VendingMachineAssignment.csprojResolveAssemblyReference.cache
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\obj\Debug\VendingMachineAssignment.csproj.CoreCompileInputs.cache
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\bin\Debug\VendingMachineAssignment.exe.config
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\bin\Debug\VendingMachineAssignment.exe
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\bin\Debug\VendingMachineAssignment.pdb
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\obj\Debug\VendingMachineAssignment.exe
+c:\users\zhang\source\repos\VendingMachineAssignment\VendingMachineAssignment\obj\Debug\VendingMachineAssignment.pdb
